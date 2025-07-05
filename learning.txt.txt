@@ -1,0 +1,6 @@
+Things i have learnt so far in the linux 
+
+How create a repository 
+how to commit on a repository 
+how to clone a repository 
+how to fork a repository 
